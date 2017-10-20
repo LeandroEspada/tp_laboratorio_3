@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508463555 source:c:\users\administrador\desktop\tp_laboratorio_3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
